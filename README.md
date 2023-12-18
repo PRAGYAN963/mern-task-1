@@ -1,10 +1,10 @@
 # MERN-Tasks
 
 # Info
-1) Name: ADITH SAGAR GOWDA
-2) Reg No: 21BAI1928
-3) VIT Email: adithsagar.gowda2021@vitstudent.ac.in
-4) Personal Email: adithgowda06@gmail.com
+1) Name: Pragyan Shrivastava
+2) Reg No: 21BCG10007
+3) VIT Email: pragyan.shrivastava2021@vitbhopal.ac.in
+
 
 # Details
 This repository includes all the tasks/works done during the course of the MERN-Stack.
